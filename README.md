@@ -42,6 +42,10 @@ The analysis concludes that ASML is a high-quality business with a strong compet
 
 ![Revenue Model](images/revenue-model.png)
 
+### DCF Equity Bridge
+
+![DCF Equity Bridge](images/dcf-equity-bridge.png)
+
 ### WACC / Growth Sensitivity Analysis
 
 ![WACC Growth Sensitivity Analysis](images/wacc-growth-sensitivity-analysis.png)
